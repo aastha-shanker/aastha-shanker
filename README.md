@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi there, I'm Aastha Shanker<br><br>💻 CSE Undergraduate @ KIIT University (Batch 2028)  <br>🚀 Passionate about Web Development, UI/UX & Problem Solving  <br>🌱 Currently learning Full Stack Development & Data Science  <br>🤝 Open to collaboration on exciting tech projects  <br><br>---<br><br>## 🧠 About Me<br>- 🔭 I’m currently working on improving my full-stack development skills  <br>- 📊 Exploring Data Analysis using Python & Pandas  <br>- 🎯 Goal: Become a skilled Software Engineer & build impactful products  <br>- ⚡ Fun fact: I enjoy turning ideas into real working projects  <br><br>---
+# 👋 Hi there, I'm Aastha Shanker<br><br>💻 CSE Undergraduate @ KIIT University (Batch 2028)  <br>🚀 Passionate about AI-ML ,Web Development, UI/UX & Problem Solving  <br>🌱 Currently learning Full Stack Development & Data Science  <br>🤝 Open to collaboration on exciting tech projects  <br><br>---<br><br>## 🧠 About Me<br>- 🔭 I’m currently working on improving my full-stack development skills  <br>- 📊 Exploring Data Analysis using Python & Pandas  <br>- 🎯 Goal: Become a skilled Software Engineer & build impactful products  <br>- ⚡ Fun fact: I enjoy turning ideas into real working projects  <br><br>---
 
 
 ## 🌐 Socials:
